@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionaries", "Dictionarie
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{045C7A09-37D8-4DD1-B08A-4C4A6E68EBB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{0354E165-7E99-4C3B-B10B-AD70C95B620C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{0354E165-7E99-4C3B-B10B-AD70C95B620C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamaTahtasi", "DamaTahtasi\DamaTahtasi.csproj", "{53EDC1E5-91CB-4DDA-A8F1-EAEA19F6F907}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{0354E165-7E99-4C3B-B10B-AD70C95B620C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0354E165-7E99-4C3B-B10B-AD70C95B620C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0354E165-7E99-4C3B-B10B-AD70C95B620C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53EDC1E5-91CB-4DDA-A8F1-EAEA19F6F907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EDC1E5-91CB-4DDA-A8F1-EAEA19F6F907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53EDC1E5-91CB-4DDA-A8F1-EAEA19F6F907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53EDC1E5-91CB-4DDA-A8F1-EAEA19F6F907}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
